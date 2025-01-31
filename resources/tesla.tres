@@ -1,0 +1,10 @@
+[gd_resource type="Car" format=3 uid="uid://chngi6twp7pra"]
+
+[resource]
+brand = "Tesla"
+year = 2025
+engine_type = 2
+transmission_type = 1
+msrp = 79990.0
+zero_to_sixty = 2.1
+top_speed = 200.0

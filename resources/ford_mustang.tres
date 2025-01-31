@@ -1,0 +1,12 @@
+[gd_resource type="Car" load_steps=2 format=3 uid="uid://c48ne50cimfbc"]
+
+[sub_resource type="TransmissionTimings" id="TransmissionTimings_9ggkl"]
+points = [10, 20, 30]
+
+[resource]
+brand = "Ford"
+year = 2020
+transmission_timings = SubResource("TransmissionTimings_9ggkl")
+msrp = 42990.0
+zero_to_sixty = 4.2
+top_speed = 249.0

@@ -1,0 +1,10 @@
+[gd_resource type="Car" load_steps=0 format=3 uid="uid://chngi6twp7prb"]
+
+[resource]
+brand = "Toyota"
+year = 2018
+engine_type = 1
+transmission_type = 2
+msrp = 19500.0
+zero_to_sixty = 8.8
+top_speed = 180.0 

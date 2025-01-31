@@ -1,0 +1,13 @@
+[gd_resource type="Car" load_steps=2 format=3 uid="uid://c48ne50cimfbb"]
+
+[sub_resource type="TransmissionTimings" id="TransmissionTimings_8ggkl"]
+points = [12, 24, 24]
+
+[resource]
+brand = "Mazda"
+year = 1996
+transmission_type = 3
+transmission_timings = SubResource("TransmissionTimings_8ggkl")
+msrp = 35000.0
+zero_to_sixty = 5.3
+top_speed = 250.0
